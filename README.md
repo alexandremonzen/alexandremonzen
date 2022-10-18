@@ -1,7 +1,11 @@
 <h1 align="left">Hi, I'm Alexandre Monzen</h1>
-<h3 align="left">A passionate Unity game developer</h3>
+<h3 align="left">A passionate Unity game developer, looking for opportunities chance to grow in the professional career</h3>
 
-- 👨‍💻 All of my projects are available at [my personal website](https://alexandremonzen.wixsite.com/site/portfolio)
+- 👨‍💻 Documented projects are available at [my personal website](https://alexandremonzen.wixsite.com/site/portfolio)
+
+- 🎮 Other playable games (not documented yet) are available at [my Itch.io website](https://alexandre-monzen.itch.io/)
+
+- 💫 Also some projects with code source available in this profile!
 
 - 📫 How to reach me **alexandremonzen@gmail.com**
 
