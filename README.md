@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Alexandre Monzen</h1>
+<h1 align="left">Hello! I'm Alexandre Monzen</h1>
 <h3 align="left">A passionate Unity game developer, looking for opportunities chance to grow in the professional career.</h3>
 
 - 💼 Currently employed at OAK3 as Junior Unity Developer
