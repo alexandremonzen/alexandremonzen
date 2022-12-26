@@ -1,5 +1,5 @@
 <h1 align="left">Hello! I'm Alexandre Monzen</h1>
-<h3 align="left">A passionate Unity game developer, looking for job opportunities to grow in the professional career.</h3>
+<h3 align="left">A passionate Unity game developer with professional experience since 2021 and academic experience since 2019, looking for job opportunities to grow in the professional career.</h3>
 
 - 💼 Currently employed at OAK3 as Junior Unity Developer
 
