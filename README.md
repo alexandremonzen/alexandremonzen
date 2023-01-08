@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **alexandremonzen@gmail.com**
 
-- 📄 Know about my experiences [reading my Resume/CV](https://www.linkedin.com/in/alexandremonzen/overlay/1635503846810/single-media-viewer/)
+- 📄 Know about my experiences [reading my Resume/CV](https://www.linkedin.com/in/alexandremonzen/overlay/1635513291500/single-media-viewer/?profileId=ACoAADRKAjsBYWAdRYgfm41uDosGGe8G9K_Fmm0)
 
 
 <h3 align="left">Connect with me</h3>
