@@ -17,7 +17,6 @@
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alexandremonzen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandremonzen" height="30" width="40" /></a>
-<a href="https://instagram.com/alexandre_monzen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexandre_monzen" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC6D5wrqkRPMtGBA8NiruwLQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alexandre monzen" height="30" width="40" /></a>
 </p>
 
