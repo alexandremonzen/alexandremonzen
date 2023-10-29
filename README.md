@@ -1,13 +1,11 @@
 <h1 align="left">Hello! I'm Alexandre Monzen</h1>
 <h3 align="left">A passionate Unity game developer with professional experience since 2021 and academic experience since 2019, looking for job opportunities to grow in the professional career.</h3>
 
-- 💼 Currently employed at [BTG Pactual](https://www.btgpactual.com/) as IT Analyst. Also Unity Developer at [OAK3](https://oak3games.com/) part-time
-
 - 👨‍💻 Documented projects are available at [my personal website](https://alexandremonzen.wixsite.com/site/portfolio)
 
 - 🎮 Other playable games (not documented yet) are available at [my Itch.io website](https://alexandre-monzen.itch.io/)
 
-- 💫 Also some projects with code source available in this profile!
+- 💫 Also some projects with code source are available in this profile!
 
 - 📫 How to reach me **alexandremonzen@gmail.com**
 
